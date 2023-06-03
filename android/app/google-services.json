@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300907069864",
+    "project_id": "peliculas-netflix-faa3a",
+    "storage_bucket": "peliculas-netflix-faa3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300907069864:android:e4d1014923394f36fc9d9d",
+        "android_client_info": {
+          "package_name": "com.peliculasnetflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300907069864-pfl4llq8m21k1a1gcgikmsrqhjak8rh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpOSF19nNaqQoUou-gB_GY418QGfOdiTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300907069864-pfl4llq8m21k1a1gcgikmsrqhjak8rh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
